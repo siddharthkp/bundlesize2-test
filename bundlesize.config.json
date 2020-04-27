@@ -2,7 +2,7 @@
   "files": [
     {
       "path": "build/vendor-*.js",
-      "maxSize": "50B"
+      "maxSize": "350B"
     },
     {
       "path": "build/**/chunk-*.js",
